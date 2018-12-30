@@ -1,0 +1,14 @@
+/* a:visited{
+  color: grey;
+} */
+
+div{
+  width: 350px;
+  height: 150px;
+  border: 1px solid black;
+  
+  background: linear-gradient(to right, grey , yellow 40%);
+  /* background: radial-gradient(circle at top right, yellow, red); */
+  
+  
+}
